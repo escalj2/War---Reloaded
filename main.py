@@ -1,6 +1,11 @@
 import random
 import time
 import os
+"""from nicegui import ui
+
+ui.label('Hello NiceGUI!')
+
+ui.run()"""
 
 game = True
 
