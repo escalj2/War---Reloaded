@@ -7,6 +7,10 @@ ui.label('Hello NiceGUI!')
 
 ui.run()"""
 
+# Add a test for multiple face-offs
+# Add logging for error checking/statistic gathering, export it to database
+# Add a gui
+
 game = True
 tie = False
 
